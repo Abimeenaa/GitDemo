@@ -6,3 +6,9 @@
 </body>
 </head>
 </html>
+
+<h2>This is heading </h2>
+<bgcolor>white</bgcolor>
+<table>t1 t2 t3 t4</table>
+
+See the changes and confirm is it is okay
