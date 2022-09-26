@@ -3,12 +3,13 @@
 <body>
 <h2>"Hello this is my first git repositary"</h2>
 <h3>"write all your code and your learning here"</h3>
+<bgcolor>Red </bgcolor>
+<t1>This is my title </t1>
+<h4>The updates are necessary kindly execute it and show the results to me</h4>
 </body>
 </head>
 </html>
 
-<h2>This is heading </h2>
-<bgcolor>white</bgcolor>
-<table>t1 t2 t3 t4</table>
+your code has some corrections and add ons.I update here the add ons check it.
+Executed the code successfully.No more changes.Finish the process
 
-See the changes and confirm is it is okay
