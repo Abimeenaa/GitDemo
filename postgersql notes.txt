@@ -1,0 +1,3 @@
+int value cannot be null,if we want to check the INTEGER value to be null or not just initialize the int value with -1 or any minus value;
+example int = -2;
+to assign a value use ALTER TABLE TABLE_NAME ALTER COLUMN_NAME SET DEFAULT -2;
