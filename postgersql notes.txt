@@ -1,0 +1,7 @@
+int value cannot be null,if we want to check the INTEGER value to be null or not just initialize the int value with -1 or any minus value;
+example int = -2;
+to assign a value use ALTER TABLE TABLE_NAME ALTER COLUMN_NAME SET DEFAULT -2;
+
+Hi this is the change added to new branch not to my master
+postgresql is an object based programming language which uses object l0ike RDBMS it is ODBMS object data base management system
+YOu can add all your notes here about postgresql
